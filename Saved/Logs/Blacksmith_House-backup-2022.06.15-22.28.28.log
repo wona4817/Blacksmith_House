@@ -1,0 +1,1616 @@
+﻿Log file open, 06/16/22 06:53:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Blacksmith_House
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262557
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.15-21.53.00:841][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.15-21.53.00:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:842][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:888][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.15-21.53.00:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.15-21.53.00:890][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.15-21.53.00:890][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.15-21.53.00:890][  0]LogHAL: Display: Platform has ~ 16 GB [17081663488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.15-21.53.00:890][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.15-21.53.00:890][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.15-21.53.00:891][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.15-21.53.00:892][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.15-21.53.00:892][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.15-21.53.00:892][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.15-21.53.00:892][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Engine.ini]
+[2022.06.15-21.53.00:892][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ChungkangGame/Blacksmith_House/Saved/Config/Windows/Editor.ini]
+[2022.06.15-21.53.00:892][  0]LogInit: Computer: DESKTOP-KIURHD1
+[2022.06.15-21.53.00:892][  0]LogInit: User: wona4
+[2022.06.15-21.53.00:892][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.15-21.53.00:892][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.15-21.53.00:892][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.15-21.53.00:892][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.15-21.53.00:892][  0]LogMemory: Process Physical Memory: 145.95 MB used, 145.96 MB peak
+[2022.06.15-21.53.00:892][  0]LogMemory: Process Virtual Memory: 130.38 MB used, 130.38 MB peak
+[2022.06.15-21.53.00:892][  0]LogMemory: Physical Memory: 13512.06 MB used,  2778.29 MB free, 16290.34 MB total
+[2022.06.15-21.53.00:892][  0]LogMemory: Virtual Memory: 134209632.00 MB used,  8095.65 MB free, 134217728.00 MB total
+[2022.06.15-21.53.00:902][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.15-21.53.01:029][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.15-21.53.01:030][  0]LogInit: Using OS detected language (ko-KR).
+[2022.06.15-21.53.01:031][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.06.15-21.53.01:062][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.06.15-21.53.01:216][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.15-21.53.01:272][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.15-21.53.01:294][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.15-21.53.01:294][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.15-21.53.01:704][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.15-21.53.01:709][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.15-21.53.01:709][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.15-21.53.01:709][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.15-21.53.01:709][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.15-21.53.01:902][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.06.15-21.53.01:902][  0]LogD3D11RHI:       8043/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     SubSysId    : 146b10de
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     SharedSystemMemory : 8540831744 bytes
+[2022.06.15-21.53.01:907][  0]LogD3D11RHI:     AdapterLuid : 0 48111
+[2022.06.15-21.53.01:915][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.15-21.53.01:915][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.15-21.53.01:915][  0]LogWindows: EnumDisplayDevices:
+[2022.06.15-21.53.01:915][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2022.06.15-21.53.01:916][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.06.15-21.53.01:917][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.06.15-21.53.01:918][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.06.15-21.53.01:918][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2022.06.15-21.53.01:918][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     SubSysId    : 146b10de
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     SharedSystemMemory : 8540831744 bytes
+[2022.06.15-21.53.01:918][  0]LogD3D11RHI:     AdapterLuid : 0 48111
+[2022.06.15-21.53.01:983][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.15-21.53.01:983][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.15-21.53.01:983][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.15-21.53.02:007][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2022.06.15-21.53.02:037][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.15-21.53.02:110][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.15-21.53.02:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.15-21.53.02:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.15-21.53.02:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.15-21.53.02:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.15-21.53.02:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.15-21.53.02:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.15-21.53.02:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.15-21.53.02:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.15-21.53.02:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.15-21.53.02:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.15-21.53.02:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.15-21.53.02:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.15-21.53.02:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.15-21.53.02:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.15-21.53.02:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.15-21.53.02:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.15-21.53.02:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.15-21.53.02:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.15-21.53.02:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.15-21.53.02:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.15-21.53.02:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.15-21.53.02:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.15-21.53.02:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.15-21.53.02:682][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.15-21.53.02:694][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.15-21.53.02:748][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.15-21.53.02:825][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.15-21.53.02:825][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/ChungkangGame/Blacksmith_House/Intermediate/Shaders/WorkingDirectory/1656/).
+[2022.06.15-21.53.02:825][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/wona4/AppData/Local/Temp/UnrealShaderWorkingDir/15DB995C46E7897DC738B5B3C521B70B/'.
+[2022.06.15-21.53.02:826][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.15-21.53.02:826][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.15-21.53.02:826][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.15-21.53.03:508][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.15-21.53.03:559][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/wona4/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.15-21.53.03:559][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/wona4/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.15-21.53.03:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/ChungkangGame/Blacksmith_House/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.15-21.53.03:560][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.15-21.53.03:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/ChungkangGame/Blacksmith_House/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.15-21.53.03:560][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.15-21.53.03:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.15-21.53.03:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.15-21.53.03:577][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.15-21.53.03:589][  0]LogDerivedDataCache: Speed tests for C:/Users/wona4/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.15-21.53.03:589][  0]LogDerivedDataCache: Display: Performance to C:/Users/wona4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=270.36MBs, RandomWriteSpeed=115.13MBs. Assigned SpeedClass 'Local'
+[2022.06.15-21.53.03:590][  0]LogDerivedDataCache: Using Local data cache path C:/Users/wona4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.15-21.53.03:590][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.15-21.53.03:590][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.15-21.53.03:632][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.15-21.53.03:633][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.15-21.53.03:657][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2022.06.15-21.53.03:881][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.15-21.53.03:881][  0]LogInit: Active device profile: [000001FA9F517800][000001FA9C193B80 49] Windows
+[2022.06.15-21.53.03:881][  0]LogInit: Profiles: [000001FA9F517800][000001FA9C193B80 49] Windows, [000001FA9F51C900][000001FA9D6BE180 49] WindowsNoEditor, [000001FA9F514900][000001FA9D6C2300 49] WindowsServer, [000001FA9F51F300][000001FA9D6C6480 49] WindowsClient, [000001FA9F517100][000001FA9D6BA5C0 49] IOS, [000001FA9F51D100][000001FA9D6CA700 49] iPadAir, [000001FA9F515000][000001FA9D6CE840 49] iPadAir2, [000001FA9F4CC400][000001FA9D6DAAC0 49] IPadPro, [000001FA9F4CC500][000001FA9D6D2B00 49] iPadAir3, [000001FA9F516D00][000001FA9D6DEC80 49] iPadAir4, [000001FA9F4CF400][000001FA9D6E2E00 49] iPadMini2, [000001FA9F515300][000001FA9D6E6F80 49] iPadMini3, [000001FA9F4CD700][000001FA9D6EB100 49] iPadMini4, [000001FA9F516700][000001FA9D6EF280 49] iPadMini5, [000001FA9F4A7C00][000001FA9D6F7540 49] iPhone6, [000001FA9F4A7D00][000001FA9D6F3580 49] iPodTouch6, [000001FA9F4CED00][000001FA9D6FF840 49] iPhone7, [000001FA9F4CEC00][000001FA9D6FB880 49] iPodTouch7, [000001FA9F4A4E00][000001FA9D703A00 49] iPhone5S, [000001FA9F4CE500][000001FA9D707B80 49] iPhone6Plus, [000001FA9F4A6D00][000001FA9D70A180 49] iPhone6S, [000001FA9F4CC800][000001FA9E1EE300 49] iPhone6SPlus, [000001FA9F4A5400][000001FA9E1F2480 49] iPhone7Plus, [000001FA9F4CC300][000001FA9E1F6600 49] iPhoneSE, [000001FA9F4A6700][000001FA9D6D6740 49] iPhone8, [000001FA9F4CCD00][000001FA9E1FA880 49] iPhone8Plus, [000001FA9F4A5A00][000001FA9E1FE9C0 49] iPhoneX, [000001FA9F4CC700][000001FA9E202B00 49] iPhoneXS, [000001FA9F4A7A00][000001FA9E20AC80 49] iPhoneXSMax, [000001FA9F4CF200][000001FA9E20EE00 49] iPhoneXR, [000001FA9F4A5200][000001FA9E212F80 49] iPhone11, [000001FA9F4CF700][000001FA9E217100 49] iPhone11Pro, [000001FA9F4A6800][000001FA9E21B280 49] iPhone11ProMax, [000001FA9F4CE700][000001FA9E21F400 49] iPhoneSE2, [000001FA9F4A7900][000001FA9E223580 49] iPhone12Mini, [000001FA9F4CFF00][000001FA9E227700 49] iPhone12, [000001FA9F4A6500][000001FA9E22B880 49] iPhone12Pro, [000001FA9F4CC900][000001FA9E22FA00 49] iPhone12ProMax, [000001FA9F4A5800][000001FA9E233B80 49] iPadPro105, [000001FA9F4CF500][000001FA9E236180 49] iPadPro129, [000001FA9F4A4900][000001FA9E23A300 49] iPadPro97, [000001FA9F4CD000][000001FA9E23E480 49] iPadPro2_129, [000001FA9F4A7800][000001FA9E242600 49] iPad5, [000001FA9F4CF600][000001FA9E246780 49] iPad6, [000001FA9F4A5000][000001FA9E24A900 49] iPad7, [000001FA9F4CD400][000001FA9E206A40 49] iPad8, [000001FA9F4A6F00][000001FA9E24EB80 49] iPadPro11, [000001FA9F4CEA00][000001FA9E252CC0 49] iPadPro2_11, [000001FA9F4A5C00][000001FA9E25AE40 49] iPadPro3_129, [000001FA9F4CD600][000001FA9E25EFC0 49] iPadPro4_129, [000001FA9F4A7500][000001FA9E263140 49] AppleTV, [000001FA9F4CFD00][000001FA9E2672C0 49] AppleTV4K, [000001FA9F4A4600][000001FA9E26B440 49] TVOS, [000001FA9F4CE800][000001FA9E26F5C0 49] Mac, [000001FA9F4A6600][000001FA9E273740 49] MacClient, [000001FA9F4CF300][000001FA9E2778C0 49] MacNoEditor, [000001FA9F4A7B00][000001FA9E27BA40 49] MacServer, [000001FA9F4CCF00][000001FA9E27FBC0 49] Linux, [000001FA9F4A4700][000001FA9E2821C0 49] LinuxAArch64, [000001FA9F4CF900][000001FA9E286340 49] LinuxNoEditor, [000001FA9F4A6200][000001FA9E28A4C0 49] LinuxAArch64NoEditor, [000001FA9F4CEE00][000001FA9E28E640 49] LinuxClient, [000001FA9F4A6900][000001FA9E2927C0 49] LinuxAArch64Client, [000001FA9F4CDE00][000001FA9E296940 49] LinuxServer, [000001FA9F4A4C00][000001FA9E29AAC0 49] LinuxAArch64Server, [000001FA9F51E400][000001FA9E256C00 49] Android, [000001FA9F5B8B00][000001FA9E29ED40 49] Android_Low, [000001FA9F51DC00][000001FA9E2A2E80 49] Android_Mid, [000001FA9F5BA200][000001FA9E2A6FC0 49] Android_High, [000001FA9F51D000][000001FA9E2AF140 49] Android_Default, [000001FA9F5B9D00][000001FA9E2B32C0 49] Android_Adreno4xx, [000001FA9F51E700][000001FA9E2B7440 49] Android_Adreno5xx_Low, [000001FA9F5B9900][000001FA9E2BB5C0 49] Android_Adreno5xx, [000001FA9F51E100][000001FA9E2BF740 49] Android_Adreno6xx, [000001FA9F5B9100][000001FA9E2C38C0 49] Android_Adreno6xx_Vulkan, [000001FA9F51F200][000001FA9E2C7A40 49] Android_Mali_T6xx, [000001FA9F5B9A00][000001FA9E2CBBC0 49] Android_Mali_T7xx, [000001FA9F51E900][000001FA9E2CE1C0 49] Android_Mali_T8xx, [000001FA9F5B8300][000001FA9E2D2340 49] Android_Mali_G71, [000001FA9F51F700][000001FA9E2D64C0 49] Android_Mali_G72, [000001FA9F5BA400][000001FA9E2DA640 49] Android_Mali_G72_Vulkan, [000001FA9F51DD00][000001FA9E2DE7C0 49] Android_Mali_G76, [000001FA9F5B9500][000001FA9E2E2940 49] Android_Mali_G76_Vulkan, [000001FA9F51DB00][000001FA9E2E6AC0 49] Android_Mali_G77, [000001FA9F5B8200][000001FA9E2EAC40 49] Android_Mali_G77_Vulkan, [000001FA9F51D900][000001FA9E2AAD80 49] Android_Mali_G78, [000001FA9F5B8700][000001FA9E2EEEC0 49] Android_Mali_G78_Vulkan, [000001FA9F4A4500][000001FA9E2F3000 49] Android_Mali_G710, [000001FA9F4CDC00][000001FA9E2F7140 49] Android_Mali_G710_Vulkan, [000001FA9F4A4B00][000001FA9E2FF2C0 49] Android_Vulkan_SM5, [000001FA9F4CFE00][000001FA9E303440 49] Android_PowerVR_G6xxx, [000001FA9F4A7200][000001FA9E3075C0 49] Android_PowerVR_GT7xxx, [000001FA9F4CCA00][000001FA9E30B740 49] Android_PowerVR_GE8xxx, [000001FA9F4A7700][000001FA9E30F8C0 49] Android_PowerVR_GM9xxx, [000001FA9F4CC600][000001FA9E313A40 49] Android_PowerVR_GM9xxx_Vulkan, [000001FA9F4A5E00][000001FA9E317BC0 49] Android_TegraK1, [000001FA9F4CF100][000001FA9E31A1C0 49] Android_Unknown_Vulkan, [000001FA9F4A7000][000001FA9E31E340 49] Lumin, [000001FA9F4CF800][000001FA9E3224C0 49] Lumin_Desktop, [000001FA9F5B9F00][000001FA9E326640 49] HoloLens, 
+[2022.06.15-21.53.04:028][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.15-21.53.04:028][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.15-21.53.04:028][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.15-21.53.04:028][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.15-21.53.04:028][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.15-21.53.04:049][  0]LogNetVersion: Blacksmith_House 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 145302929)
+[2022.06.15-21.53.04:518][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.15-21.53.04:523][  0]LogUObjectArray: 17179 objects as part of root set at end of initial load.
+[2022.06.15-21.53.04:523][  0]LogUObjectAllocator: 4302256 out of 0 bytes used by permanent object pool.
+[2022.06.15-21.53.04:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.15-21.53.04:693][  0]LogFMOD: FFMODStudioModule startup
+[2022.06.15-21.53.04:693][  0]LogFMOD: Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2022.06.15-21.53.04:693][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2022.06.15-21.53.04:695][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2022.06.15-21.53.04:697][  0]LogFMOD: Error: Failed to load bank lookup
+[2022.06.15-21.53.04:697][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.06.15-21.53.04:727][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-21.53.04:727][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-21.53.04:727][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-21.53.04:768][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-21.53.04:768][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-21.53.04:768][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-21.53.04:960][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BD97C9924C2DF7B5473B3181FE0449A2 | Instance: 3FF4BF2C4F5B0CF72339BCB4F5112EB5 (DESKTOP-KIURHD1-1656).
+[2022.06.15-21.53.05:003][  0]LogPython: Using Python 3.7.7
+[2022.06.15-21.53.05:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.15-21.53.05:634][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.15-21.53.05:918][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-21.53.05:918][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-21.53.05:923][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-21.53.05:933][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-21.53.06:002][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-21.53.06:007][  0]LogUProjectInfo: Found projects:
+[2022.06.15-21.53.06:229][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.15-21.53.06:298][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.15-21.53.06:325][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.15-21.53.06:325][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.15-21.53.06:477][  0]LogCollectionManager: Loaded 0 collections in 0.001932 seconds
+[2022.06.15-21.53.06:502][  0]LogFileCache: Scanning file cache for directory 'D:/ChungkangGame/Blacksmith_House/Saved/Collections/' took 0.00s
+[2022.06.15-21.53.06:502][  0]LogFileCache: Scanning file cache for directory 'D:/ChungkangGame/Blacksmith_House/Content/Developers/wona4/Collections/' took 0.00s
+[2022.06.15-21.53.06:502][  0]LogFileCache: Scanning file cache for directory 'D:/ChungkangGame/Blacksmith_House/Content/Collections/' took 0.00s
+[2022.06.15-21.53.06:509][  0]LogOcInput: OculusInput pre-init called
+[2022.06.15-21.53.06:751][  0]LogClass: Warning: ObjectProperty FFMODLocalizedBankTable::Banks is not initialized properly. Module:FMODStudio File:Private/FMODBankLookup.h
+[2022.06.15-21.53.06:751][  0]LogClass: Display: BoolProperty FFMODProjectLocale::bDefault is not initialized properly. Module:FMODStudio File:Classes/FMODSettings.h
+[2022.06.15-21.53.06:752][  0]LogClass: Display: 2 Uninitialized script struct members found including 1 object properties
+[2022.06.15-21.53.06:752][  0]LogAutomationTest: Warning: ObjectProperty FFMODLocalizedBankTable::Banks is not initialized properly. Module:FMODStudio File:Private/FMODBankLookup.h
+[2022.06.15-21.53.06:753][  0]LogEngine: Initializing Engine...
+[2022.06.15-21.53.06:756][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.15-21.53.06:756][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.15-21.53.06:756][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.15-21.53.06:757][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.15-21.53.06:866][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.15-21.53.06:879][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.15-21.53.06:880][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.15-21.53.06:886][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.15-21.53.06:886][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.15-21.53.06:887][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.15-21.53.06:887][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-21.53.06:887][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-21.53.06:887][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.15-21.53.06:887][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.15-21.53.06:887][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.15-21.53.06:887][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-21.53.06:907][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-21.53.06:907][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-21.53.06:931][  0]LogAudioMixer: Display: Using Audio Device 스피커(2- USBFC1)
+[2022.06.15-21.53.06:934][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-21.53.06:937][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-21.53.06:937][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-21.53.06:938][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-21.53.06:938][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-21.53.06:938][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-21.53.06:939][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-21.53.06:939][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-21.53.06:939][  0]LogInit: FAudioDevice initialized.
+[2022.06.15-21.53.06:940][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.15-21.53.06:940][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.15-21.53.07:007][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/wona4/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.15-21.53.07:007][  0]LogInit: Texture streaming: Enabled
+[2022.06.15-21.53.07:025][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.06.15-21.53.07:032][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.15-21.53.07:033][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.15-21.53.07:038][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.15-21.53.07:070][  0]LogInit: Transaction tracking system initialized
+[2022.06.15-21.53.07:102][  0]BlueprintLog: New page: 에디터 로드
+[2022.06.15-21.53.07:187][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.06.15-21.53.07:221][  0]TimingProfiler: Initialize
+[2022.06.15-21.53.07:222][  0]TimingProfiler: OnSessionChanged
+[2022.06.15-21.53.07:222][  0]LoadingProfiler: Initialize
+[2022.06.15-21.53.07:222][  0]LoadingProfiler: OnSessionChanged
+[2022.06.15-21.53.07:222][  0]NetworkingProfiler: Initialize
+[2022.06.15-21.53.07:222][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.15-21.53.07:222][  0]MemoryProfiler: Initialize
+[2022.06.15-21.53.07:222][  0]MemoryProfiler: OnSessionChanged
+[2022.06.15-21.53.07:456][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.15-21.53.07:456][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.15-21.53.07:502][  0]LogFileCache: Scanning file cache for directory 'D:/ChungkangGame/Blacksmith_House/Content/' took 0.01s
+[2022.06.15-21.53.07:502][  0]LogFMOD: FFMODStudioEditorModule startup
+[2022.06.15-21.53.07:914][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.15-21.53.07:919][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-21.53.07:919][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.498
+[2022.06.15-21.53.07:919][  0]Cmd: MAP LOAD FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.15-21.53.07:920][  0]LightingResults: New page: 라이팅 빌드
+[2022.06.15-21.53.07:921][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.53.07:921][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.53.07:921][  0]MapCheck: New page: 맵 체크
+[2022.06.15-21.53.07:921][  0]LightingResults: New page: 라이팅 빌드
+[2022.06.15-21.53.07:924][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-21.53.07:927][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.15-21.53.09:534][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.06.15-21.53.09:535][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.15-21.53.09:541][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.15-21.53.09:549][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.06.15-21.53.09:551][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.15-21.53.09:551][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.14ms.
+[2022.06.15-21.53.09:551][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.632
+[2022.06.15-21.53.09:553][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.132
+[2022.06.15-21.53.09:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-21.53.09:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-21.53.09:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-21.53.09:734][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-21.53.09:749][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3840 classes and 935 folders.
+[2022.06.15-21.53.09:753][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.15-21.53.09:755][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.15-21.53.09:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-21.53.09:755][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:755][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.06.15-21.53.09:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.06.15-21.53.09:756][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.15-21.53.09:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.15-21.53.09:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.06.15-21.53.09:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.15-21.53.09:756][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.15-21.53.09:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.15-21.53.09:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.06.15-21.53.09:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:757][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-21.53.09:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-21.53.09:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.15-21.53.09:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.15-21.53.09:758][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.15-21.53.09:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.15-21.53.09:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.06.15-21.53.09:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:759][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.15-21.53.09:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.15-21.53.09:759][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:759][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.06.15-21.53.09:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:759][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.15-21.53.09:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.15-21.53.09:759][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:759][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.06.15-21.53.09:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.15-21.53.09:760][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.15-21.53.09:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.15-21.53.09:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.06.15-21.53.09:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-21.53.09:761][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.15-21.53.09:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.15-21.53.09:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.06.15-21.53.09:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:761][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.15-21.53.09:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.15-21.53.09:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.06.15-21.53.09:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.15-21.53.09:762][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.15-21.53.09:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.15-21.53.09:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.06.15-21.53.09:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.06.15-21.53.09:763][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.15-21.53.09:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.15-21.53.09:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.06.15-21.53.09:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:763][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-21.53.09:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-21.53.09:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.06.15-21.53.09:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.15-21.53.09:764][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.15-21.53.09:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.15-21.53.09:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.06.15-21.53.09:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.15-21.53.09:765][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.15-21.53.09:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.15-21.53.09:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.06.15-21.53.09:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-21.53.09:765][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.15-21.53.09:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-21.53.09:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.06.15-21.53.09:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.06.15-21.53.09:766][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.15-21.53.09:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.15-21.53.09:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.15-21.53.09:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:767][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.15-21.53.09:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.15-21.53.09:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.06.15-21.53.09:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.15-21.53.09:767][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-21.53.09:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-21.53.09:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.06.15-21.53.09:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-21.53.09:768][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-21.53.09:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-21.53.09:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.06.15-21.53.09:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-21.53.09:769][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.15-21.53.09:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-21.53.09:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.06.15-21.53.09:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.15-21.53.09:789][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.15-21.53.09:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.15-21.53.09:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.06.15-21.53.09:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.06.15-21.53.09:789][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.15-21.53.09:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.15-21.53.09:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.06.15-21.53.09:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.06.15-21.53.09:790][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.15-21.53.09:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.15-21.53.09:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.06.15-21.53.09:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:791][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-21.53.09:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-21.53.09:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.06.15-21.53.09:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.15-21.53.09:792][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.15-21.53.09:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-21.53.09:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.15-21.53.09:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-21.53.09:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.06.15-21.53.09:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-21.53.09:849][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.15-21.53.09:850][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2022.06.15-21.53.09:861][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.06.15-21.53.09:913][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.15-21.53.09:915][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.15-21.53.09:917][  0]LogSlate: Took 0.001724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.06.15-21.53.09:919][  0]LogSlate: Took 0.001681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.06.15-21.53.09:919][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.15-21.53.10:006][  0]LogRenderer: Reallocating scene render targets to support 1432x500 Format 10 NumSamples 1 (Frame:1).
+[2022.06.15-21.53.10:431][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.15-21.53.10:531][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.15-21.53.10:531][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.06.15-21.53.10:531][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.06.15-21.53.10:531][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.06.15-21.53.10:531][  0]LogLoad: (Engine Initialization) Total time: 12.11 seconds
+[2022.06.15-21.53.10:531][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.15-21.53.10:580][  0]LogAssetRegistry: Asset discovery search completed in 6.9248 seconds
+[2022.06.15-21.53.10:679][  0]LogFMOD: Display: Loaded bank lookup
+[2022.06.15-21.53.10:679][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.06.15-21.53.10:694][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-21.53.10:694][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-21.53.10:694][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-21.53.10:717][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.06.15-21.53.10:864][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-21.53.10:864][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-21.53.10:864][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-21.53.10:878][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.06.15-21.53.10:920][  0]LogFMOD: Warning: Problem loading FMOD Bank: Could not find master bank (Master.bank). Check project settings.
+[2022.06.15-21.53.10:926][  0]LogFMOD: Display: Loaded bank lookup
+[2022.06.15-21.53.10:926][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.06.15-21.53.10:927][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.06.15-21.53.10:928][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.15-21.53.10:965][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.15-21.53.11:068][  0]LogRenderer: Reallocating scene render targets to support 1432x516 Format 10 NumSamples 1 (Frame:3).
+[2022.06.15-21.53.13:703][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.06.15-21.53.14:285][335]Cmd: DELETE
+[2022.06.15-21.53.14:285][335]Cmd: ACTOR DELETE
+[2022.06.15-21.53.14:287][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-21.53.14:295][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.15-21.53.14:296][335]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.06.15-21.53.19:772][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House01)
+[2022.06.15-21.53.39:834][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\Roof\RoofObj\T_Roof_D.png)
+[2022.06.15-21.53.39:967][868]LogTexture: Display: 텍스처 빌드: T_Roof_D (OODLE_AutoDXT, 2048X2048)
+[2022.06.15-21.53.40:240][868]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-21.53.40:240][868]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-21.53.40:263][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\Roof\RoofObj\T_Roof_M.png)
+[2022.06.15-21.53.40:365][868]LogTexture: Display: 텍스처 빌드: T_Roof_M (OODLE_AutoDXT, 2048X2048)
+[2022.06.15-21.53.40:543][868]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-21.53.40:543][868]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-21.53.40:592][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\Roof\RoofObj\T_Roof_N.png)
+[2022.06.15-21.53.40:886][868]LogTexture: Display: 텍스처 빌드: T_Roof_N (OODLE_BC5, 2048X2048)
+[2022.06.15-21.53.41:042][868]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-21.53.41:042][868]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-21.53.49:086][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House03)
+[2022.06.15-21.53.55:288][295]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_M.T_Roof_M
+[2022.06.15-21.53.55:318][295]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.06.15-21.53.56:816][421]LogTexture: Display: 텍스처 빌드: T_Roof_M (OODLE_AutoDXT, 2048X2048)
+[2022.06.15-21.53.56:978][421]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-21.53.56:978][421]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-21.53.58:213][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_M" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_M.uasset" SILENT=true
+[2022.06.15-21.53.58:394][540]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Roof_M40D1130B4368B8FDAEC7DBACBB0087E6.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_M.uasset'
+[2022.06.15-21.53.58:417][540]AssetCheck: New page: 에셋 저장:  T_Roof_M
+[2022.06.15-21.53.58:417][540]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_M.T_Roof_M 유효성 검사 중
+[2022.06.15-21.53.58:853][581]LogSlate: Window 'T_Roof_M' being destroyed
+[2022.06.15-21.54.04:668][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House01)
+[2022.06.15-21.54.05:473][266]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_House01.SM_House01
+[2022.06.15-21.54.05:581][266]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.15-21.54.05:652][266]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.15-21.54.06:053][266]LogRenderer: Reallocating scene render targets to support 1668x900 Format 10 NumSamples 1 (Frame:1).
+[2022.06.15-21.54.07:020][331]LogSlate: Took 0.001081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.15-21.54.14:056][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House01)
+[2022.06.15-21.54.23:045][585]LogContentBrowser: Deferred new asset file creation: M_Master_Inst
+[2022.06.15-21.54.23:077][585]LogContentBrowser: Creating deferred item: M_Master_Inst
+[2022.06.15-21.54.29:447][233]LogContentBrowser: Attempting asset rename: M_Master_Inst -> MI_RoofObj
+[2022.06.15-21.54.29:449][233]LogContentBrowser: End creating deferred item M_Master_Inst
+[2022.06.15-21.54.33:353][575]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI_RoofObj.MI_RoofObj
+[2022.06.15-21.54.33:514][575]LogRenderer: Reallocating scene render targets to support 1668x920 Format 10 NumSamples 1 (Frame:1).
+[2022.06.15-21.54.34:908][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.uasset" SILENT=true
+[2022.06.15-21.54.34:914][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.15-21.54.34:923][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.15-21.54.34:929][680]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_RoofObj2065BB314FB4330B0BA412ADD1855F98.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.uasset'
+[2022.06.15-21.54.35:002][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.15-21.54.35:016][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.15-21.54.35:020][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.15-21.54.35:058][680]AssetCheck: New page: 에셋 저장:  MI_RoofObj
+[2022.06.15-21.54.35:058][680]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.MI_RoofObj 유효성 검사 중
+[2022.06.15-21.54.40:157][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House03)
+[2022.06.15-21.54.41:068][167]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_House03.SM_House03
+[2022.06.15-21.54.41:705][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House02)
+[2022.06.15-21.54.42:520][248]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_House02.SM_House02
+[2022.06.15-21.55.02:474][812]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_House01.FBX]
+[2022.06.15-21.55.02:771][812]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_House01.FBX
+[2022.06.15-21.55.02:821][812]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-21.55.02:868][812]LogStaticMesh: SM_House01 스태틱 메시 빌드중...
+[2022.06.15-21.55.02:956][812]LogStaticMesh: Built static mesh [0.09s] /Engine/Transient.SM_House01
+[2022.06.15-21.55.03:262][812]LogStaticMesh: SM_House01 스태틱 메시 빌드중...
+[2022.06.15-21.55.03:320][812]LogStaticMesh: Built static mesh [0.06s] /Game/ThirdPersonBP/Maps/FBX/SM_House01.SM_House01
+[2022.06.15-21.55.05:828][812]LogSlate: Window '머티리얼 상충 레졸루션 리임포트' being destroyed
+[2022.06.15-21.55.05:838][812]LogEditorFactories: -- imported successfully
+[2022.06.15-21.55.12:671][125]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/0615/SM_House02.FBX]
+[2022.06.15-21.55.12:776][125]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/0615/SM_House02.FBX
+[2022.06.15-21.55.12:832][125]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-21.55.12:872][125]LogStaticMesh: SM_House02 스태틱 메시 빌드중...
+[2022.06.15-21.55.12:965][125]LogStaticMesh: Built static mesh [0.09s] /Engine/Transient.SM_House02
+[2022.06.15-21.55.13:064][125]LogStaticMesh: SM_House02 스태틱 메시 빌드중...
+[2022.06.15-21.55.13:130][125]LogStaticMesh: Built static mesh [0.07s] /Game/ThirdPersonBP/Maps/FBX/SM_House02.SM_House02
+[2022.06.15-21.55.13:160][125]LogEditorFactories: -- imported successfully
+[2022.06.15-21.55.23:273][330]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_House02.FBX]
+[2022.06.15-21.55.23:401][330]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_House02.FBX
+[2022.06.15-21.55.23:455][330]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-21.55.23:554][330]LogStaticMesh: SM_House02 스태틱 메시 빌드중...
+[2022.06.15-21.55.23:621][330]LogStaticMesh: Built static mesh [0.07s] /Game/ThirdPersonBP/Maps/FBX/SM_House02.SM_House02
+[2022.06.15-21.55.24:584][330]LogSlate: Window '머티리얼 상충 레졸루션 리임포트' being destroyed
+[2022.06.15-21.55.24:593][330]LogEditorFactories: -- imported successfully
+[2022.06.15-21.55.31:948][436]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_House03.FBX]
+[2022.06.15-21.55.32:055][436]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_House03.FBX
+[2022.06.15-21.55.32:110][436]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-21.55.32:153][436]LogStaticMesh: SM_House03 스태틱 메시 빌드중...
+[2022.06.15-21.55.32:237][436]LogStaticMesh: Built static mesh [0.08s] /Engine/Transient.SM_House03
+[2022.06.15-21.55.32:337][436]LogStaticMesh: SM_House03 스태틱 메시 빌드중...
+[2022.06.15-21.55.32:401][436]LogStaticMesh: Built static mesh [0.06s] /Game/ThirdPersonBP/Maps/FBX/SM_House03.SM_House03
+[2022.06.15-21.55.33:254][436]LogSlate: Window '머티리얼 상충 레졸루션 리임포트' being destroyed
+[2022.06.15-21.55.33:264][436]LogEditorFactories: -- imported successfully
+[2022.06.15-21.56.05:113][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.uasset" SILENT=true
+[2022.06.15-21.56.05:120][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.15-21.56.05:131][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.06.15-21.56.05:137][368]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_RoofObj8DD6F7924C98C8AD2B02F3919AE35729.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.uasset'
+[2022.06.15-21.56.05:182][368]AssetCheck: New page: 에셋 저장:  MI_RoofObj
+[2022.06.15-21.56.05:182][368]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.MI_RoofObj 유효성 검사 중
+[2022.06.15-21.56.11:197][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.uasset" SILENT=true
+[2022.06.15-21.56.11:201][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.15-21.56.11:209][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.15-21.56.11:216][811]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_RoofObjF9C95B094064B0C9A68778B6CAD52AF5.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.uasset'
+[2022.06.15-21.56.11:258][811]AssetCheck: New page: 에셋 저장:  MI_RoofObj
+[2022.06.15-21.56.11:258][811]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_RoofObj.MI_RoofObj 유효성 검사 중
+[2022.06.15-21.56.24:344][614]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.56.24:344][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.56.35:386][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FBX/SM_House02" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_House02.uasset" SILENT=true
+[2022.06.15-21.56.35:407][240]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/SM_House029D3557FB479A35C642C8159031CDA881.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_House02.uasset'
+[2022.06.15-21.56.35:434][240]AssetCheck: New page: 에셋 저장:  SM_House02
+[2022.06.15-21.56.35:434][240]LogContentValidation: Display: StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_House02.SM_House02 유효성 검사 중
+[2022.06.15-21.56.44:251][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House03)
+[2022.06.15-21.56.48:628][176]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_WoodSet02.MI_WoodSet02
+[2022.06.15-21.56.51:855][349]Cmd: TRANSACTION UNDO
+[2022.06.15-21.56.51:855][349]LogEditorTransaction: Undo BaseColor_Tint intersity 편집
+[2022.06.15-21.56.54:753][424]Cmd: TRANSACTION UNDO
+[2022.06.15-21.56.54:754][424]LogEditorTransaction: Undo BaseColor_Tint intersity 편집
+[2022.06.15-21.56.56:024][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.15-21.56.56:060][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.15-21.56.56:078][439]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.56.56:078][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.57.00:766][698]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Window2.MI_Window2
+[2022.06.15-21.57.03:637][894]Cmd: TRANSACTION UNDO
+[2022.06.15-21.57.03:637][894]LogEditorTransaction: Undo BaseColor_Tint intersity 편집
+[2022.06.15-21.57.08:908][167]Cmd: TRANSACTION UNDO
+[2022.06.15-21.57.08:909][167]LogEditorTransaction: Undo BaseColor_De 편집
+[2022.06.15-21.57.14:275][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Window2" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Window2.uasset" SILENT=true
+[2022.06.15-21.57.14:282][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.15-21.57.14:289][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.15-21.57.14:298][498]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_Window26065D2874DE75AAC37EC53BC8E4C0D5F.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Window2.uasset'
+[2022.06.15-21.57.14:334][498]AssetCheck: New page: 에셋 저장:  MI_Window2
+[2022.06.15-21.57.14:334][498]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Window2.MI_Window2 유효성 검사 중
+[2022.06.15-21.57.15:414][578]LogSlate: Window 'MI_Window2' being destroyed
+[2022.06.15-21.57.15:421][578]LogSlate: Window 'MI_Window2' being destroyed
+[2022.06.15-21.57.15:428][578]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.57.15:428][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.57.15:481][578]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.57.15:481][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.57.15:515][578]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.57.15:515][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.57.15:573][578]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.57.15:574][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.57.22:787][312]LogContentBrowser: Deferred new asset file creation: M_Master_Inst
+[2022.06.15-21.57.22:821][312]LogContentBrowser: Creating deferred item: M_Master_Inst
+[2022.06.15-21.57.25:551][639]LogContentBrowser: Attempting asset rename: M_Master_Inst -> MI_Coal
+[2022.06.15-21.57.25:551][639]LogContentBrowser: End creating deferred item M_Master_Inst
+[2022.06.15-21.57.27:697][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Coal" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Coal.uasset" SILENT=true
+[2022.06.15-21.57.27:703][865]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_CoalBE3E4CEF402595B50367778C82797A81.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Coal.uasset'
+[2022.06.15-21.57.27:781][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.15-21.57.27:799][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.15-21.57.27:803][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.15-21.57.27:841][865]AssetCheck: New page: 에셋 저장:  MI_Coal
+[2022.06.15-21.57.27:841][865]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Coal.MI_Coal 유효성 검사 중
+[2022.06.15-21.57.30:060][ 55]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Coal.MI_Coal
+[2022.06.15-21.57.33:358][267]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.15-21.57.33:389][267]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.15-21.57.35:710][516]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.06.15-21.57.35:711][516]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.15-21.57.45:267][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\coal\T_DefaultMaterial_D.png)
+[2022.06.15-21.57.45:275][988]LogTexture: Display: 텍스처 빌드: T_DefaultMaterial_D (OODLE_AutoDXT, 512X512)
+[2022.06.15-21.57.45:291][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\coal\T_DefaultMaterial_M.png)
+[2022.06.15-21.57.45:299][988]LogTexture: Display: 텍스처 빌드: T_DefaultMaterial_M (OODLE_AutoDXT, 512X512)
+[2022.06.15-21.57.45:317][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\coal\T_DefaultMaterial_N.png)
+[2022.06.15-21.57.45:340][988]LogTexture: Display: 텍스처 빌드: T_DefaultMaterial_N (OODLE_BC5, 512X512)
+[2022.06.15-21.57.47:982][ 38]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_M.T_DefaultMaterial_M
+[2022.06.15-21.57.48:973][117]LogTexture: Display: 텍스처 빌드: T_DefaultMaterial_M (OODLE_AutoDXT, 512X512)
+[2022.06.15-21.57.49:925][191]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_DefaultMaterial_M99C2517345F4D6357B5820A148BE4280.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_M.uasset'
+[2022.06.15-21.57.49:976][191]AssetCheck: New page: 에셋 저장:  T_DefaultMaterial_M
+[2022.06.15-21.57.49:976][191]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_M.T_DefaultMaterial_M 유효성 검사 중
+[2022.06.15-21.57.57:846][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Coal" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Coal.uasset" SILENT=true
+[2022.06.15-21.57.57:851][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.15-21.57.57:861][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.15-21.57.57:866][834]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_CoalE4A1E6BE4A9400FF401A78BEC56FEAA4.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Coal.uasset'
+[2022.06.15-21.57.57:911][834]AssetCheck: New page: 에셋 저장:  MI_Coal
+[2022.06.15-21.57.57:912][834]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Coal.MI_Coal 유효성 검사 중
+[2022.06.15-21.57.58:954][937]LogSlate: Window 'MI_Coal' being destroyed
+[2022.06.15-21.57.58:964][937]LogSlate: Window 'MI_Coal' being destroyed
+[2022.06.15-21.57.58:970][937]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.57.58:970][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.58.06:416][468]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Coal.FBX)
+[2022.06.15-21.58.06:429][468]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Coal.FBX
+[2022.06.15-21.58.06:449][468]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-21.58.07:257][468]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2022.06.15-21.58.07:283][468]LogStaticMesh: SM_Coal 스태틱 메시 빌드중...
+[2022.06.15-21.58.07:306][468]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/Maps/FBX/SM_Coal.SM_Coal
+[2022.06.15-21.58.09:740][665]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_Coal.SM_Coal
+[2022.06.15-21.58.14:919][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FBX/SM_Coal" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_Coal.uasset" SILENT=true
+[2022.06.15-21.58.14:928][ 64]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/SM_Coal122579F0425873DDD3EA999F3025CD98.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_Coal.uasset'
+[2022.06.15-21.58.14:965][ 64]AssetCheck: New page: 에셋 저장:  SM_Coal
+[2022.06.15-21.58.14:965][ 64]LogContentValidation: Display: StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_Coal.SM_Coal 유효성 검사 중
+[2022.06.15-21.58.15:404][ 99]LogSlate: Window 'SM_Coal' being destroyed
+[2022.06.15-21.58.15:417][ 99]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.58.15:417][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.58.16:443][176]LogActorFactory: Actor Factory created SM_Coal
+[2022.06.15-21.58.17:392][266]LogActorFactory: Actor Factory created SM_Coal
+[2022.06.15-21.58.32:627][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ClothSet)
+[2022.06.15-21.58.35:796][333]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Cloth.MI_Cloth
+[2022.06.15-21.58.43:031][937]Cmd: TRANSACTION UNDO
+[2022.06.15-21.58.43:031][937]LogEditorTransaction: Undo BaseColor_De 편집
+[2022.06.15-21.58.45:647][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Cloth" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Cloth.uasset" SILENT=true
+[2022.06.15-21.58.45:653][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.15-21.58.45:666][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.15-21.58.45:687][130]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_Cloth25C2769244C83A30DA0E70807ADB8D5D.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Cloth.uasset'
+[2022.06.15-21.58.45:715][130]AssetCheck: New page: 에셋 저장:  MI_Cloth
+[2022.06.15-21.58.45:715][130]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Cloth.MI_Cloth 유효성 검사 중
+[2022.06.15-21.58.46:137][163]LogSlate: Window 'MI_Cloth' being destroyed
+[2022.06.15-21.58.46:154][163]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-21.58.46:154][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-21.58.55:107][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.15-21.58.55:142][209]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap4418BB5F44DE4CEB26DF0C9EC30AA23B.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-21.58.55:341][209]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltData5B43F8274380D090F785BC86C8C8415A.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-21.58.55:366][209]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-21.58.55:366][209]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-21.58.55:366][209]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-21.58.58:575][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BrazierBricik4)
+[2022.06.15-21.58.59:862][708]Cmd: DELETE
+[2022.06.15-21.58.59:862][708]Cmd: ACTOR DELETE
+[2022.06.15-21.58.59:865][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-21.58.59:870][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.15-21.58.59:873][708]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.06.15-21.59.00:993][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.15-21.59.01:030][838]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMapE3775463428F6E3A44F34A9AFC6AF68F.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-21.59.01:105][838]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltData5C03B52B4C0248878B2E78919DDCF6DB.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-21.59.01:121][838]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-21.59.01:121][838]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-21.59.01:121][838]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-22.05.56:908][833]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Rock.FBX)
+[2022.06.15-22.05.57:414][833]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Rock.FBX
+[2022.06.15-22.05.57:433][833]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-22.05.59:212][833]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2022.06.15-22.05.59:886][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.06.15-22.06.00:006][833]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2022.06.15-22.06.12:721][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.06.15-22.06.13:231][833]FBXImport: 임포트가 취소되었습니다. 
+[2022.06.15-22.06.13:380][833]LogAssetTools: The import task was canceled.
+[2022.06.15-22.06.13:698][833]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.15-22.06.13:788][833]LogSlate: Took 0.090021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.06.15-22.06.29:599][982]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Rock01.FBX)
+[2022.06.15-22.06.29:608][982]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Rock01.FBX
+[2022.06.15-22.06.29:613][982]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-22.06.30:927][982]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2022.06.15-22.06.31:028][982]LogStaticMesh: SM_Rock01 스태틱 메시 빌드중...
+[2022.06.15-22.06.31:030][982]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/FBX/SM_Rock01.SM_Rock01
+[2022.06.15-22.06.31:093][982]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Rock02.FBX)
+[2022.06.15-22.06.31:124][982]LogFbx: Loading FBX Scene from D:/ChungkangGame/청강3학년1학기/Fbx0616/SM_Rock02.FBX
+[2022.06.15-22.06.31:129][982]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-22.06.31:131][982]LogStaticMesh: SM_Rock02 스태틱 메시 빌드중...
+[2022.06.15-22.06.31:134][982]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/FBX/SM_Rock02.SM_Rock02
+[2022.06.15-22.06.33:909][224]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_Rock01.SM_Rock01
+[2022.06.15-22.06.35:178][227]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_Rock02.SM_Rock02
+[2022.06.15-22.06.47:411][797]LogContentBrowser: Deferred new asset file creation: M_Master_Inst
+[2022.06.15-22.06.47:527][797]LogContentBrowser: Creating deferred item: M_Master_Inst
+[2022.06.15-22.06.49:617][  2]LogContentBrowser: Attempting asset rename: M_Master_Inst -> MI_Rock
+[2022.06.15-22.06.49:618][  2]LogContentBrowser: End creating deferred item M_Master_Inst
+[2022.06.15-22.06.50:850][110]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI_Rock.MI_Rock
+[2022.06.15-22.06.57:568][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.15-22.06.58:640][520]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.15-22.06.58:746][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.15-22.07.04:294][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset" SILENT=true
+[2022.06.15-22.07.04:299][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.15-22.07.04:372][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.15-22.07.04:394][930]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_RockD366C4F148B3A05F29B04699EC407084.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset'
+[2022.06.15-22.07.04:468][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.15-22.07.04:492][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.15-22.07.04:574][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.15-22.07.04:640][930]AssetCheck: New page: 에셋 저장:  MI_Rock
+[2022.06.15-22.07.04:640][930]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock 유효성 검사 중
+[2022.06.15-22.07.08:590][265]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.15-22.07.08:633][265]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.15-22.07.09:426][341]LogContentBrowser: Attempting asset rename: NewFolder -> rock
+[2022.06.15-22.07.09:427][341]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.15-22.07.20:506][617]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\rock\T_Rock_D.png)
+[2022.06.15-22.07.20:648][617]LogTexture: Display: 텍스처 빌드: T_Rock_D (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.07.20:736][617]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.07.20:739][617]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\rock\T_Rock_M.png)
+[2022.06.15-22.07.20:768][617]LogTexture: Display: 텍스처 빌드: T_Rock_M (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.07.20:892][617]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.07.20:892][617]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ChungkangGame\청강3학년1학기\Texture\rock\T_Rock_N.png)
+[2022.06.15-22.07.20:960][617]LogTexture: Display: 텍스처 빌드: T_Rock_N (OODLE_BC5, 1024X1024)
+[2022.06.15-22.07.21:064][617]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-22.07.22:593][622]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.T_Rock_M
+[2022.06.15-22.07.24:126][698]LogTexture: Display: 텍스처 빌드: T_Rock_M (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.07.24:163][698]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.07.25:186][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_M" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.uasset" SILENT=true
+[2022.06.15-22.07.25:253][745]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Rock_M481FEC8F4110F9066946519143841872.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.uasset'
+[2022.06.15-22.07.25:341][745]AssetCheck: New page: 에셋 저장:  T_Rock_M
+[2022.06.15-22.07.25:341][745]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.T_Rock_M 유효성 검사 중
+[2022.06.15-22.07.36:763][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset" SILENT=true
+[2022.06.15-22.07.36:913][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.15-22.07.37:146][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.06.15-22.07.37:208][583]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_Rock0EF81725460F6449656593B01DF17DA2.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset'
+[2022.06.15-22.07.37:477][583]AssetCheck: New page: 에셋 저장:  MI_Rock
+[2022.06.15-22.07.37:477][583]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock 유효성 검사 중
+[2022.06.15-22.07.50:205][ 78]LogSlate: Window 'MI_Rock' being destroyed
+[2022.06.15-22.07.50:213][ 78]LogSlate: Window 'MI_Rock' being destroyed
+[2022.06.15-22.07.50:219][ 78]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.07.50:219][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.07.52:244][ 78]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.07.52:244][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.07.52:825][ 78]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.07.52:825][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.07.56:452][360]LogSlate: Window '메시지 로그' being destroyed
+[2022.06.15-22.07.56:460][360]LogSlate: Window '메시지 로그' being destroyed
+[2022.06.15-22.07.59:541][560]LogActorFactory: Actor Factory created SM_Rock01
+[2022.06.15-22.08.00:283][579]LogActorFactory: Actor Factory created SM_Rock01
+[2022.06.15-22.08.04:766][580]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.08.08:816][580]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.08.15:197][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.08.32:774][452]LogTexture: Display: 텍스처 빌드: Texture2D_5 (G8, 128X128)
+[2022.06.15-22.08.45:339][ 14]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.08.48:000][ 61]Cmd: TRANSACTION UNDO
+[2022.06.15-22.08.48:009][ 61]LogEditorTransaction: Undo 새 랜드스케이프 생성 중입니다.
+[2022.06.15-22.09.11:069][918]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.09.24:993][341]Cmd: TRANSACTION UNDO
+[2022.06.15-22.09.24:993][341]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.09.25:022][341]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.09.26:541][451]Cmd: TRANSACTION UNDO
+[2022.06.15-22.09.26:541][451]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.09.35:508][307]Cmd: TRANSACTION UNDO
+[2022.06.15-22.09.35:508][307]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.09.35:529][307]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.09.37:022][427]Cmd: TRANSACTION UNDO
+[2022.06.15-22.09.37:022][427]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.09.37:034][427]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.09.46:379][467]Cmd: TRANSACTION UNDO
+[2022.06.15-22.09.46:379][467]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.09.46:395][467]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.00:652][956]LogEditorViewport: Clicking on Actor (double click): LightmassImportanceVolume (LightmassImportanceVolume)
+[2022.06.15-22.10.02:292][147]Cmd: TRANSACTION UNDO
+[2022.06.15-22.10.02:292][147]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.10.02:307][147]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.02:497][148]Cmd: TRANSACTION UNDO
+[2022.06.15-22.10.02:497][148]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.10.02:511][148]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.02:668][151]Cmd: TRANSACTION UNDO
+[2022.06.15-22.10.02:668][151]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.10.02:676][151]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.02:801][152]Cmd: TRANSACTION UNDO
+[2022.06.15-22.10.02:801][152]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.10.02:811][152]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.05:958][509]Cmd: TRANSACTION UNDO
+[2022.06.15-22.10.05:958][509]LogEditorTransaction: Undo 랜드스케이프 편집 중: 스컬프팅
+[2022.06.15-22.10.05:963][509]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.17:690][645]Cmd: TRANSACTION UNDO
+[2022.06.15-22.10.17:690][645]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.10.20:049][823]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.06.15-22.10.26:777][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.06.15-22.10.26:939][478]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X256)
+[2022.06.15-22.10.27:281][478]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMapB4B8A13D43A510176FBB17A0D8F4FBA8.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-22.10.28:738][478]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltDataB0B033574039D3EF7EE39E9E1E3EEE04.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-22.10.29:019][478]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-22.10.29:019][478]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-22.10.29:019][478]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-22.10.31:368][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.10.32:371][804]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock
+[2022.06.15-22.10.39:469][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset" SILENT=true
+[2022.06.15-22.10.39:580][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.15-22.10.39:617][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.15-22.10.39:636][277]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_RockFCD3765247BF11E05D8C97A938ED5247.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset'
+[2022.06.15-22.10.39:825][277]AssetCheck: New page: 에셋 저장:  MI_Rock
+[2022.06.15-22.10.39:825][277]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock 유효성 검사 중
+[2022.06.15-22.11.20:171][654]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png]
+[2022.06.15-22.11.20:173][654]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png)
+[2022.06.15-22.11.20:217][654]LogTexture: Display: 텍스처 빌드: T_Rock_D (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.11.20:268][654]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.11.20:268][654]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.20:278][654]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png]
+[2022.06.15-22.11.20:280][654]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png)
+[2022.06.15-22.11.20:310][654]LogTexture: Display: 텍스처 빌드: T_Rock_M (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.11.20:373][654]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.11.20:373][654]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.20:382][654]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png]
+[2022.06.15-22.11.20:389][654]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png)
+[2022.06.15-22.11.20:491][654]LogTexture: Display: 텍스처 빌드: T_Rock_N (OODLE_BC5, 1024X1024)
+[2022.06.15-22.11.20:531][654]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-22.11.20:531][654]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.43:680][341]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png]
+[2022.06.15-22.11.43:682][341]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png)
+[2022.06.15-22.11.43:727][341]LogTexture: Display: 텍스처 빌드: T_Rock_D (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.11.43:770][341]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.11.43:770][341]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.43:779][341]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png]
+[2022.06.15-22.11.43:780][341]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png)
+[2022.06.15-22.11.43:811][341]LogTexture: Display: 텍스처 빌드: T_Rock_M (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.11.43:889][341]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.11.43:889][341]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.43:899][341]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png]
+[2022.06.15-22.11.43:907][341]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png)
+[2022.06.15-22.11.43:979][341]LogTexture: Display: 텍스처 빌드: T_Rock_N (OODLE_BC5, 1024X1024)
+[2022.06.15-22.11.44:010][341]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-22.11.44:010][341]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.57:798][761]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png]
+[2022.06.15-22.11.57:799][761]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png)
+[2022.06.15-22.11.57:837][761]LogTexture: Display: 텍스처 빌드: T_Rock_D (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.11.57:896][761]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.11.57:896][761]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.57:904][761]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png]
+[2022.06.15-22.11.57:906][761]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png)
+[2022.06.15-22.11.57:946][761]LogTexture: Display: 텍스처 빌드: T_Rock_M (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.11.57:981][761]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.11.57:981][761]LogEditorFactories: -- imported successfully
+[2022.06.15-22.11.57:989][761]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png]
+[2022.06.15-22.11.57:996][761]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png)
+[2022.06.15-22.11.58:066][761]LogTexture: Display: 텍스처 빌드: T_Rock_N (OODLE_BC5, 1024X1024)
+[2022.06.15-22.11.58:099][761]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-22.11.58:099][761]LogEditorFactories: -- imported successfully
+[2022.06.15-22.12.02:290][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.12.03:530][194]Cmd: EDIT COPY
+[2022.06.15-22.12.03:739][203]Cmd: EDIT COPY
+[2022.06.15-22.12.05:323][364]Cmd: TRANSACTION UNDO
+[2022.06.15-22.12.05:323][364]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.12.06:787][467]Cmd: TRANSACTION UNDO
+[2022.06.15-22.12.06:787][467]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.12.07:993][568]Cmd: EDIT COPY
+[2022.06.15-22.12.08:208][581]Cmd: EDIT PASTE
+[2022.06.15-22.12.10:989][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.12.14:977][172]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.06.15-22.12.15:369][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hammer)
+[2022.06.15-22.12.17:260][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.12.19:347][532]Cmd: TRANSACTION UNDO
+[2022.06.15-22.12.19:347][532]LogEditorTransaction: Undo 액터 회전
+[2022.06.15-22.12.20:887][632]Cmd: MODE ROTGRID=1
+[2022.06.15-22.12.27:988][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.12.32:000][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.12.39:903][469]Cmd: EDIT COPY
+[2022.06.15-22.12.40:082][486]Cmd: EDIT PASTE
+[2022.06.15-22.12.53:428][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.12.53:743][811]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.13.00:694][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.13.01:517][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.13.02:959][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.13.03:210][671]Cmd: EDIT COPY
+[2022.06.15-22.13.03:354][684]Cmd: EDIT PASTE
+[2022.06.15-22.13.08:406][146]Cmd: TRANSACTION UNDO
+[2022.06.15-22.13.08:406][146]LogEditorTransaction: Undo 액터 스케일
+[2022.06.15-22.13.17:635][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.13.19:163][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.13.20:575][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.13.22:969][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.13.25:616][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.13.30:246][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.13.30:741][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.13.31:101][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.13.32:852][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.13.34:968][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shield02)
+[2022.06.15-22.13.37:510][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shield01)
+[2022.06.15-22.13.38:129][936]Cmd: DELETE
+[2022.06.15-22.13.38:131][936]Cmd: ACTOR DELETE
+[2022.06.15-22.13.38:137][936]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.13.38:159][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.15-22.13.38:192][936]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.06.15-22.13.38:407][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shield02)
+[2022.06.15-22.13.41:119][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.13.43:417][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.13.48:980][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.13.49:357][982]Cmd: EDIT COPY
+[2022.06.15-22.13.49:531][999]Cmd: EDIT PASTE
+[2022.06.15-22.14.15:305][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.14.18:526][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.14.18:761][878]Cmd: TRANSACTION UNDO
+[2022.06.15-22.14.18:761][878]LogEditorTransaction: Undo 액터 스케일
+[2022.06.15-22.14.24:151][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.14.30:482][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.14.35:411][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.14.35:700][526]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.14.35:965][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.14.36:253][568]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.14.36:672][604]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.14.37:399][672]Cmd: TRANSACTION UNDO
+[2022.06.15-22.14.37:399][672]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.14.37:602][675]Cmd: TRANSACTION UNDO
+[2022.06.15-22.14.37:602][675]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.14.38:134][704]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.14.38:553][742]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.14.43:344][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.14.44:314][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.14.44:542][298]Cmd: EDIT COPY
+[2022.06.15-22.14.44:677][306]Cmd: EDIT PASTE
+[2022.06.15-22.14.55:935][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.14.56:417][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.14.57:294][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.14.59:965][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.15.08:208][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.15.08:572][583]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.15.19:291][452]Cmd: TRANSACTION UNDO
+[2022.06.15-22.15.19:291][452]LogEditorTransaction: Undo BaseColor_De 편집
+[2022.06.15-22.15.26:042][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.15-22.15.26:196][ 59]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap1C853486459271241A717EAD21B6B751.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-22.15.26:343][ 59]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltDataA248D74741B51956165A14880BA72FCD.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-22.15.26:359][ 59]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-22.15.26:359][ 59]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-22.15.26:359][ 59]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-22.20.45:849][358]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png]
+[2022.06.15-22.20.45:850][358]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_D.png)
+[2022.06.15-22.20.45:887][358]LogTexture: Display: 텍스처 빌드: T_Rock_D (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.20.45:936][358]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.20.45:936][358]LogEditorFactories: -- imported successfully
+[2022.06.15-22.20.45:946][358]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png]
+[2022.06.15-22.20.45:947][358]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_M.png)
+[2022.06.15-22.20.45:977][358]LogTexture: Display: 텍스처 빌드: T_Rock_M (OODLE_AutoDXT, 1024X1024)
+[2022.06.15-22.20.46:010][358]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-22.20.46:010][358]LogEditorFactories: -- imported successfully
+[2022.06.15-22.20.46:020][358]LogEditorFactories: Performing atomic reimport of [D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png]
+[2022.06.15-22.20.46:027][358]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/ChungkangGame/청강3학년1학기/Texture/rock/T_Rock_N.png)
+[2022.06.15-22.20.46:124][358]LogTexture: Display: 텍스처 빌드: T_Rock_N (OODLE_BC5, 1024X1024)
+[2022.06.15-22.20.46:160][358]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-22.20.46:160][358]LogEditorFactories: -- imported successfully
+[2022.06.15-22.20.57:415][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset" SILENT=true
+[2022.06.15-22.20.57:453][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.15-22.20.57:538][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.15-22.20.57:544][291]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_Rock51BBA1454891E768833B2284D040D7C2.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset'
+[2022.06.15-22.20.57:593][291]AssetCheck: New page: 에셋 저장:  MI_Rock
+[2022.06.15-22.20.57:593][291]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock 유효성 검사 중
+[2022.06.15-22.21.13:968][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset" SILENT=true
+[2022.06.15-22.21.14:002][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.15-22.21.14:080][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.06.15-22.21.14:086][854]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_Rock192FE6BF4D29BBEEB4EC08A728DE202D.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset'
+[2022.06.15-22.21.14:101][854]AssetCheck: New page: 에셋 저장:  MI_Rock
+[2022.06.15-22.21.14:101][854]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock 유효성 검사 중
+[2022.06.15-22.21.14:591][891]LogSlate: Window 'MI_Rock' being destroyed
+[2022.06.15-22.21.14:607][891]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.21.14:608][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.21.16:968][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.21.17:286][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.21.18:088][232]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_House01)
+[2022.06.15-22.21.18:606][269]Cmd: TRANSACTION UNDO
+[2022.06.15-22.21.18:606][269]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.21.18:839][274]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.21.19:088][280]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.21.19:512][323]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.21.19:824][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.21.24:788][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.21.26:045][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.21.31:203][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.21.33:717][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.21.35:336][ 99]Cmd: TRANSACTION UNDO
+[2022.06.15-22.21.35:336][ 99]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.21.36:976][247]Cmd: TRANSACTION UNDO
+[2022.06.15-22.21.36:976][247]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.21.39:530][550]Cmd: TRANSACTION UNDO
+[2022.06.15-22.21.39:530][550]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.21.41:431][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.21.44:149][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.21.47:761][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.21.50:320][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.21.55:481][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.22.07:526][756]Cmd: TRANSACTION UNDO
+[2022.06.15-22.22.07:526][756]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.22.07:753][762]Cmd: TRANSACTION UNDO
+[2022.06.15-22.22.07:753][762]LogEditorTransaction: Undo 액터 회전
+[2022.06.15-22.22.07:920][766]Cmd: TRANSACTION UNDO
+[2022.06.15-22.22.07:920][766]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.22.20:006][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.22.24:817][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.22.32:776][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.22.38:059][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.22.41:608][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.22.43:102][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.22.51:671][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.22.56:754][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.22.59:734][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House03)
+[2022.06.15-22.23.01:123][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.23.03:344][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.23.05:414][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.23.06:926][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.23.07:240][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.23.07:757][511]Cmd: EDIT COPY
+[2022.06.15-22.23.08:337][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.23.08:712][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.23.08:933][647]Cmd: EDIT COPY
+[2022.06.15-22.23.09:114][668]Cmd: EDIT PASTE
+[2022.06.15-22.23.20:314][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.23.20:583][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.23.20:892][995]Cmd: EDIT COPY
+[2022.06.15-22.23.21:066][  9]Cmd: EDIT PASTE
+[2022.06.15-22.23.39:502][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock7)
+[2022.06.15-22.23.41:234][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.23.41:637][386]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock2)
+[2022.06.15-22.23.41:874][411]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock3)
+[2022.06.15-22.23.42:130][438]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock4)
+[2022.06.15-22.23.42:374][464]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock5)
+[2022.06.15-22.23.42:609][488]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock6)
+[2022.06.15-22.23.42:847][513]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock7)
+[2022.06.15-22.23.43:093][539]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock8)
+[2022.06.15-22.23.45:017][740]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock01)
+[2022.06.15-22.23.45:464][789]Cmd: EDIT COPY
+[2022.06.15-22.23.45:664][812]Cmd: EDIT PASTE
+[2022.06.15-22.23.56:781][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock14)
+[2022.06.15-22.23.57:837][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock11)
+[2022.06.15-22.24.00:499][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock16)
+[2022.06.15-22.24.01:528][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock15)
+[2022.06.15-22.24.02:307][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock14)
+[2022.06.15-22.24.07:668][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock12)
+[2022.06.15-22.24.07:979][372]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock13)
+[2022.06.15-22.24.11:673][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock11)
+[2022.06.15-22.24.14:880][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock16)
+[2022.06.15-22.24.15:197][163]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock15)
+[2022.06.15-22.24.20:184][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock9)
+[2022.06.15-22.24.31:718][ 69]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock
+[2022.06.15-22.24.38:024][589]Cmd: TRANSACTION UNDO
+[2022.06.15-22.24.38:024][589]LogEditorTransaction: Undo BaseColor_Tint intersity 편집
+[2022.06.15-22.24.48:246][559]Cmd: TRANSACTION UNDO
+[2022.06.15-22.24.48:246][559]LogEditorTransaction: Undo BaseColor_Tint intersity 편집
+[2022.06.15-22.24.50:516][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset" SILENT=true
+[2022.06.15-22.24.50:521][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.06.15-22.24.50:564][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.15-22.24.50:576][712]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_RockBA93AFFF4F6F7CF341E0E0B4F9978380.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_Rock.uasset'
+[2022.06.15-22.24.50:601][712]AssetCheck: New page: 에셋 저장:  MI_Rock
+[2022.06.15-22.24.50:601][712]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_Rock.MI_Rock 유효성 검사 중
+[2022.06.15-22.24.51:961][838]LogSlate: Window 'MI_Rock' being destroyed
+[2022.06.15-22.24.51:976][838]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.24.51:977][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.24.58:498][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.15-22.24.58:706][480]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMapBAB699FF478007D5B2BF8083B64838A0.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-22.24.58:815][480]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltData8A2830D54760BDEF60602588BCA11048.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-22.24.58:839][480]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-22.24.58:839][480]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-22.24.58:839][480]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-22.24.59:551][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.15-22.24.59:720][549]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap5BC8C22349BE29F50954939888A0AE75.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-22.24.59:819][549]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltData97FFAED7474EF0B2DAC14DAF03AD034C.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-22.24.59:835][549]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-22.24.59:835][549]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-22.24.59:835][549]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-22.25.15:719][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.15-22.25.15:862][406]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMapA31444B5437548BD79837281F79F6F03.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.15-22.25.15:940][406]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/ThirdPersonExampleMap_BuiltData7F0BC74F405566AFA189CCB468BB831B.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.15-22.25.15:956][406]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-22.25.15:956][406]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2022.06.15-22.25.15:956][406]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2022.06.15-22.25.16:825][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.15-22.25.17:632][500]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.06.15-22.25.17:720][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mat/MI/MI_WoodSet02" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_WoodSet02.uasset" SILENT=true
+[2022.06.15-22.25.17:739][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/MI_WoodSet02B6C2435D42CADDAE9845839413B083CB.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Mat/MI/MI_WoodSet02.uasset'
+[2022.06.15-22.25.17:782][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FBX/SM_House01" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_House01.uasset" SILENT=true
+[2022.06.15-22.25.17:855][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/SM_House01C5D54F854BC06F7713DAA3BF8D700079.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_House01.uasset'
+[2022.06.15-22.25.18:008][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FBX/SM_House03" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_House03.uasset" SILENT=true
+[2022.06.15-22.25.18:069][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/SM_House03AF1689BE42325669556F3BABFA0811FD.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_House03.uasset'
+[2022.06.15-22.25.18:106][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FBX/SM_Rock01" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_Rock01.uasset" SILENT=true
+[2022.06.15-22.25.18:165][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/SM_Rock01526CEBF04B96330CEFC2C18778E08836.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_Rock01.uasset'
+[2022.06.15-22.25.18:174][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FBX/SM_Rock02" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_Rock02.uasset" SILENT=true
+[2022.06.15-22.25.18:186][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/SM_Rock0213329B1647B3022D5232329666865FB3.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/FBX/SM_Rock02.uasset'
+[2022.06.15-22.25.18:274][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_DefaultMaterial_DD08C439F4B79A5A022A51AB9F7B41022.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_D.uasset'
+[2022.06.15-22.25.18:439][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_DefaultMaterial_N1A844EB144A87B344F3127B693E85D80.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_N.uasset'
+[2022.06.15-22.25.18:445][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_D" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_D.uasset" SILENT=true
+[2022.06.15-22.25.18:514][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Rock_D22CB1CE94BD80E20A4842D986AAC6D5C.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_D.uasset'
+[2022.06.15-22.25.18:518][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_M" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.uasset" SILENT=true
+[2022.06.15-22.25.18:565][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Rock_ME08C980E49B1304269B0DB82633D369F.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.uasset'
+[2022.06.15-22.25.18:600][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_N" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_N.uasset" SILENT=true
+[2022.06.15-22.25.18:760][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Rock_N3325A6AF4C9A7BA3D34EA3B8C2853F0D.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/rock/T_Rock_N.uasset'
+[2022.06.15-22.25.18:766][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_D" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_D.uasset" SILENT=true
+[2022.06.15-22.25.19:439][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Roof_D8203EA50489FC7ABAE6ABE8A68D74FA7.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_D.uasset'
+[2022.06.15-22.25.19:471][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_N" FILE="D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_N.uasset" SILENT=true
+[2022.06.15-22.25.20:960][500]LogSavePackage: Moving 'D:/ChungkangGame/Blacksmith_House/Saved/T_Roof_NCE4C51654AB8612E4F7A738CAA0F9BEE.tmp' to 'D:/ChungkangGame/Blacksmith_House/Content/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_N.uasset'
+[2022.06.15-22.25.21:051][500]LogSlate: Window 'Blacksmith_House - 언리얼 에디터' being destroyed
+[2022.06.15-22.25.27:719][500]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_Rock02.SM_Rock02 유효성 검사 중
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_Rock01.SM_Rock01 유효성 검사 중
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_N.T_DefaultMaterial_N 유효성 검사 중
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/Coal/T_DefaultMaterial_D.T_DefaultMaterial_D 유효성 검사 중
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_N.T_Roof_N 유효성 검사 중
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/Roof/RoofObj/T_Roof_D.T_Roof_D 유효성 검사 중
+[2022.06.15-22.25.27:719][500]LogContentValidation: Display: MaterialInstanceConstant /Game/ThirdPersonBP/Maps/Mat/MI/MI_WoodSet02.MI_WoodSet02 유효성 검사 중
+[2022.06.15-22.25.27:731][500]LogContentValidation: Display: StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_House01.SM_House01 유효성 검사 중
+[2022.06.15-22.25.27:731][500]LogContentValidation: Display: StaticMesh /Game/ThirdPersonBP/Maps/FBX/SM_House03.SM_House03 유효성 검사 중
+[2022.06.15-22.25.27:731][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_N.T_Rock_N 유효성 검사 중
+[2022.06.15-22.25.27:731][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_M.T_Rock_M 유효성 검사 중
+[2022.06.15-22.25.27:731][500]LogContentValidation: Display: Texture2D /Game/ThirdPersonBP/Maps/Texture/rock/T_Rock_D.T_Rock_D 유효성 검사 중
+[2022.06.15-22.25.27:734][501]Cmd: QUIT_EDITOR
+[2022.06.15-22.25.27:734][501]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.15-22.25.28:090][501]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.15-22.25.28:542][501]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.15-22.25.28:542][501]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.15-22.25.28:542][501]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.06.15-22.25.28:556][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-22.25.28:731][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.15-22.25.31:326][501]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.15-22.25.31:597][501]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2022.06.15-22.25.32:650][501]LogExit: Preparing to exit.
+[2022.06.15-22.25.34:800][501]LogUObjectHash: Compacting FUObjectHashTables data took  17.03ms
+[2022.06.15-22.25.44:462][501]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.25.44:462][501]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.25.49:147][501]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.15-22.25.54:180][501]LogExit: Editor shut down
+[2022.06.15-22.25.54:661][501]LogExit: Transaction tracking system shut down
+[2022.06.15-22.26.33:322][501]LogExit: Object subsystem successfully closed.
+[2022.06.15-22.26.35:343][501]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.15-22.26.35:343][501]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.15-22.26.35:343][501]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.15-22.26.35:343][501]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.15-22.26.35:343][501]LogShaderCompilers: Display: ================================================
+[2022.06.15-22.26.36:312][501]LogShaderCompilers: Display: Shaders left to compile 0
